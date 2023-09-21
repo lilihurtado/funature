@@ -76,14 +76,6 @@ li{
     color: blue;
 }
 
-
-h3, h2, h1{
-    text-align: center;
-    color: #000;   
-}
-h2{
-    color: black;
-}
 .titulo{
     align-items: center;
     color: blue;
@@ -121,6 +113,12 @@ i{
 }
 .it, img{
     width: 200px ;
+}
+
+.alto-img{
+    width: 100px !important;
+    height: 550px !important;
+    background-size: cover;
 }
 
 
