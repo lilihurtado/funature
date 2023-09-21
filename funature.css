@@ -23,24 +23,7 @@ header{
     height: 150px;
     border-radius: 10px;
 }
-.slider{
-    width: 95%;
-    overflow: hidden; 
-    margin: 10px; 
-}
-.slider ul{
-    display: flex;
-    animation: cambio 10s infinite alternate;
-    width: 400%;
-    height: 450px;
-}
-.slider li{
-    width: 100%;
-    list-style: none;
-}
-.slider img{
-   width: 100%;
-}
+
 main{
     margin-top: 10%;
     width: 100%;
